@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { Request, Response } from "express";
-=======
-import type { Request, Response } from "express";
->>>>>>> d24d52aea7a673e86d326ceb4ace4c90a32172c7
 import { PrismaClient } from "@prisma/client";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
